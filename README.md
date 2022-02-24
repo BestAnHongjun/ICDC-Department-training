@@ -1,5 +1,7 @@
 # 【计算机视觉从入门到进阶】
 ### 大连海事大学·电航学社·智能认知与数据计算部(ICDC)
+项目github地址：https://github.com/BestAnHongjun/ICDC-Department-training
+国内gitee同步：https://gitee.com/anhong_county/icdc-trainning
 
 ## 更新日志
 
