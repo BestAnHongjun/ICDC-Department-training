@@ -2,7 +2,7 @@
 ### 大连海事大学·电航学社·智能认知与数据计算部(ICDC)
 项目github地址：https://github.com/BestAnHongjun/ICDC-Department-training
 
-国内gitee同步：https://gitee.com/anhong_county/icdc-trainning
+国内gitee同步：https://gitee.com/an_hongjun/icdc-training
 
 ## 更新日志
 
