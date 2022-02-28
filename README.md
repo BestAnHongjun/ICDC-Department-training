@@ -6,6 +6,19 @@
 
 ## 更新日志
 
+#### 2022-02-28
+* 更新课件及课上代码：Chapter 1-3 计算机图形学基础（第二课时）[[链接]](./Chapter%201%20计算机视觉基础教程/Part%203%20计算机图形学基础（第二课时）)
+* 课程视频及链接：
+  * 1.3.1 缩放变换理论推导 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=17)
+  * 1.3.2 剪切变换理论推导 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=18)
+  * 1.3.3 旋转变换理论推导 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=19)
+  * 1.3.4 线性变换小结 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=20)
+  * 1.3.5 实验：缩放、剪切、旋转变换 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=21)
+  * 1.3.6 仿射变换理论部分 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=22)
+  * 1.3.7 OpenCV仿射变换 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=23)
+  * 1.3.8 OpenCV旋转变换 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=24)
+  * 1.3.9 OpenCV缩放变换 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=25)
+
 #### 2022-02-24
 * 更新课件及课上代码：Chapter 1-2 计算机图形学基础（第一课时）[[链接]](./Chapter%201%20计算机视觉基础教程/Part%202%20计算机图形学基础（第一课时）)
 * 课程视频链接：
