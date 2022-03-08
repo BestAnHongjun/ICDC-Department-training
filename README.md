@@ -4,6 +4,13 @@
 
 国内gitee同步：https://gitee.com/an_hongjun/icdc-training
 
+贡献者：
+* 安泓郡 [[github]](https://github.com/BestAnHongjun) [[gitee]](https://gitee.com/an_hongjun/)
+* 臧景奇 [[CSDN]](https://blog.csdn.net/weixin_52456426?spm=1000.2115.3001.5343)
+
+致谢：
+* 电航学社 [[bilibili]](https://space.bilibili.com/1526938049/?spm_id_from=333.999.0.0)
+
 ## 更新日志
 
 #### 2022-03-08
