@@ -6,6 +6,15 @@
 
 ## 更新日志
 
+#### 2022-03-08
+* 更新课件及课上代码：Chapter 2-1 卷积神经网络基础 [[链接]](./Chapter%202%20计算机视觉%20-%20图像多分类任务课程/Part%201%20卷积神经网络初步)
+* 更新视频及链接：
+  * 2.1.1 图像分类任务简介 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=26)
+  * 2.1.2 卷积 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=27)
+  * 2.1.3 池化 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=28)
+  * 2.1.4 全连接 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=29)
+  * 2.1.5 常见卷积神经网络 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=30)
+
 #### 2022-02-28
 * 更新课件及课上代码：Chapter 1-3 计算机图形学基础（第二课时）[[链接]](./Chapter%201%20计算机视觉基础教程/Part%203%20计算机图形学基础（第二课时）)
 * 课程视频及链接：
