@@ -13,6 +13,14 @@
 
 ## 更新日志
 
+#### 2022-03-25
+* 更新课件及课上代码：Chapter 2-2 PyTorch基础 [[链接]](./Chapter%202%20计算机视觉%20-%20图像多分类任务课程/Part%202%20PyTorch基础)
+* 更新视频及链接：
+  * 2.2.1 深度学习生态简介 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=31)
+  * 2.2.2 PyTorch-CPU环境配置 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=32)
+  * 2.2.3 DataLoader与Dataset简介 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=33)
+  * 2.2.4 （实验）DataLoader代码实现 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=34)
+
 #### 2022-03-08
 * 更新课件及课上代码：Chapter 2-1 卷积神经网络基础 [[链接]](./Chapter%202%20计算机视觉%20-%20图像多分类任务课程/Part%201%20卷积神经网络初步)
 * 更新视频及链接：
