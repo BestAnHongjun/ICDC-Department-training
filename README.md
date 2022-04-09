@@ -13,6 +13,12 @@
 
 ## 更新日志
 
+#### 2022-04-09
+* 更新课件及课上代码：Chapter 2-3 分类网络构建 [[链接]](./Chapter%202%20计算机视觉%20-%20图像多分类任务课程/Part%203%20分类网络构建)
+* 更新视频及链接：
+  * 2.3.1 nn.Sequential [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=35)
+  * 2.3.2 （实验）网络搭建 [[链接]](https://www.bilibili.com/video/BV1o44y1n76c?p=36)
+
 #### 2022-03-25
 * 更新课件及课上代码：Chapter 2-2 PyTorch基础 [[链接]](./Chapter%202%20计算机视觉%20-%20图像多分类任务课程/Part%202%20PyTorch基础)
 * 更新视频及链接：
